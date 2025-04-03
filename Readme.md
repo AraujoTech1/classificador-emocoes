@@ -15,9 +15,9 @@ O **Classificador de Emoções** é uma aplicação web que utiliza **Inteligên
 - **Teste de Funcionamento**: O projeto foi testado em diferentes navegadores para verificar sua compatibilidade.  
 - **Teste Realizado**:  
 
-<img src="./imagem/img1.png" alt="Captura da tela" width="300px">
+<img src="./imagem/img1.png" alt="Captura da tela" width="400px">
 
-<img src="./imagem/img2.png" alt="Captura da tela" width="300px">
+<img src="./imagem/img2.png" alt="Captura da tela" width="400px">
 
 ## Tecnologias e Linguagens Utilizadas  
 ![Vue.js](https://img.shields.io/badge/Vue.js-FF69B4?style=for-the-badge&logo=vue.js&logoColor=white)
