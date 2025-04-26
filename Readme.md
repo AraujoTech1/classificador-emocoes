@@ -11,9 +11,9 @@ O **Classificador de Emoções** é uma aplicação web que utiliza **Inteligên
 ✅ Permite limpar o campo e reiniciar a análise.  
 
 ## Testes de Software  
-- **Teste de Depuração**: Foram realizados testes para garantir que a IA classifica corretamente as emoções.  
-- **Teste de Funcionamento**: O projeto foi testado em diferentes navegadores para verificar sua compatibilidade.  
-- **Teste Realizado**:  
+✅ **Teste de Depuração**: Foram realizados testes para garantir que a IA classifica corretamente as emoções.  
+✅ **Teste de Funcionamento**: O projeto foi testado em diferentes navegadores para verificar sua compatibilidade.  
+✅ **Teste Realizado**:  
 
 <img src="./imagem/img1.png" alt="Captura da tela" width="400px">
 
